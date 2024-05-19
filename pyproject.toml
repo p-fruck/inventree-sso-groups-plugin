@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "inventree-sso-groups"
+version = "0.1.0"
+description = ""
+authors = ["Philipp Fruck <dev@p-fruck.de>"]
+readme = "README.md"
+packages = [{include = "inventree_sso_groups", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
