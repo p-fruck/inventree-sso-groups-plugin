@@ -1,6 +1,6 @@
 # InvenTree SSO Groups Plugin
 
-This plugin allows to sync your SSO groups with InvenTree and is currently considered being in draft state.
+This plugin was used to support the [dicsussion](https://github.com/inventree/InvenTree/discussions/7200) about syncing SSO groups with InvenTree and led to a [PR](https://github.com/inventree/InvenTree/pull/7293) integrating such functionality into the main codebase.
 
 ## Usage
 
